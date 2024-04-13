@@ -2,7 +2,7 @@ let r;             //initializing variables
 let totalPoints;
 let factor;
 function setup() {
-  fullscreen(true);
+  createCanvas(700, 700)
   colorMode(HSB)//creating screen
 r = width/2 - 10;          //setting r value
 
