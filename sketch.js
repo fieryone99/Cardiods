@@ -3,7 +3,7 @@ let totalPoints;
 let factor;
 let pd = pixelDensity();
 function setup() {
-   createCanvas(500, 500);
+   createCanvas(5000, 5000);
   colorMode(HSB)//creating screen
 r = width/2 - 10;          //setting r value
 
