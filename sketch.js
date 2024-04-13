@@ -34,5 +34,5 @@ function draw() {
 
     line(x, y, nx, ny); //draws line between th epoints and where they end up after multiplied by factor
   }
-    factor += 0.007; //increases factor by small amount
+    factor += 0.003; //increases factor by small amount
 }
