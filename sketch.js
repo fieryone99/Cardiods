@@ -4,7 +4,7 @@ let factor;
 function setup() {
    createCanvas(windowWidth, windowHeight);
   colorMode(HSB)//creating screen
-r = height/2 - 10;          //setting r value
+r = min(height, width)/2 - 10;          //setting r value
 
 }
 
